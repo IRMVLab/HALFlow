@@ -1,0 +1,6 @@
+model_checkpoint_path: "Latest_model.ckpt"
+all_model_checkpoint_paths: "model_kitti_epe3d_000.ckpt"
+all_model_checkpoint_paths: "model_kitti_epe3d_001.ckpt"
+all_model_checkpoint_paths: "model_kitti_epe3d_003.ckpt"
+all_model_checkpoint_paths: "model_kitti_epe3d_006.ckpt"
+all_model_checkpoint_paths: "Latest_model.ckpt"
