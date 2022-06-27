@@ -1,7 +1,6 @@
-**Hierarchical Attention Learning of Scene Flow
-in 3D Point Clouds**
+**Hierarchical Attention Learning of Scene Flow in 3D Point Clouds** (IEEE Transactions on Image Processing)
 ==============================================================================================================================
-This is the official implementation of HALFlowNet (IEEE TRANSACTIONS ON IMAGE PROCESSING), an end-to-end deep network for scene flow estimation created by Guangming Wang, Xinrui Wu, Zhe Liu and Hesheng Wang.
+This is the official implementation of TIP 2021 papaer "Hierarchical Attention Learning of Scene Flow in 3D Point Clouds" created by Guangming Wang, Xinrui Wu, Zhe Liu and Hesheng Wang.
 ![](doc/network.png)
 
 ## Citation
