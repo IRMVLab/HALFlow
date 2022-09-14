@@ -1,6 +1,6 @@
 **Hierarchical Attention Learning of Scene Flow in 3D Point Clouds** (IEEE Transactions on Image Processing)
 ==============================================================================================================================
-This is the official implementation of TIP 2021 papaer "Hierarchical Attention Learning of Scene Flow in 3D Point Clouds" created by Guangming Wang, Xinrui Wu, Zhe Liu and Hesheng Wang.
+This is the official implementation of TIP 2021 papaer "[**Hierarchical Attention Learning of Scene Flow in 3D Point Clouds**](https://ieeexplore.ieee.org/abstract/document/9435105)" created by Guangming Wang, Xinrui Wu, Zhe Liu and Hesheng Wang.
 ![](doc/network.png)
 
 ## Citation
